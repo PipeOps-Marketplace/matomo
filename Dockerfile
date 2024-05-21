@@ -1,1 +1,1 @@
-FROM matomo
+FROM matomo:latest
