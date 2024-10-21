@@ -1,8 +1,5 @@
 # Matomo on PipeOps
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
-
 Matomo is the leading open-source analytics platform that gives you more than powerful analytics.
 
 
